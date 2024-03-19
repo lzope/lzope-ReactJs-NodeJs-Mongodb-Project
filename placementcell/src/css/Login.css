@@ -1,0 +1,17 @@
+.main-login{
+    display: flex;
+/*    border: 2px solid black;*/
+    border-radius: 15px;
+    padding: 30px;
+    width: 60rem;
+    margin: 0px;
+    align-items: center;
+    justify-content: center;
+   
+}
+.main-box{
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

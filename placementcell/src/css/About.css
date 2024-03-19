@@ -1,0 +1,12 @@
+.div-for-flex{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 50px;
+    
+}
+.info{
+    width: 45%;
+/*    background-color: aqua;*/
+        
+}
